@@ -8,8 +8,7 @@ assignees: ''
 ---
 
 
-As a [role]  
-I need [function]  
+As a [role]   
 
 
 
