@@ -23,5 +23,4 @@ So that [benefit]
    
  ```gherkin
  Given [some context]
- When [certain action is taken]
  ```
