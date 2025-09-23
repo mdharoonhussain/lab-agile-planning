@@ -9,7 +9,7 @@ assignees: ''
 
 
 As a [role]
-So that [benefit]
+I need [function]
 
    
  ### Details and Assumptions
