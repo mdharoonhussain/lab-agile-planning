@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **As a** [role]  
+**I need** [function]
    
  ### Details and Assumptions
  * [document what you know]
