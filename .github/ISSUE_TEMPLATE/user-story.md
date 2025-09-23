@@ -8,7 +8,6 @@ assignees: ''
 ---
 
 **As a** [role]  
- **So that** [benefit]  
    
  ### Details and Assumptions
  * [document what you know]
